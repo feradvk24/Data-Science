@@ -1,0 +1,391 @@
+,Unnamed: 0,spotify_genre,track_duration_s,explicit_track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,spotify_popularity,main_artist,artist_list,song,index_empty_val
+0,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",223.532,False,0.681,0.807,10,-2.362,0,0.252,0.0536,0.0,0.59,0.538,148.026,51,DJ Khaled,,USE THIS GOSPEL (feat. Kanye West & Eminem) - REMIX,1359
+1,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",207.65,True,0.652,0.716,1,-4.012,0,0.166,0.0196,0.0,0.11,0.681,147.959,55,DJ Khaled,,Juice WRLD DID (feat. Juice WRLD),1360
+2,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",184.925,True,0.665,0.887,11,-2.18,0,0.173,0.0125,0.0,0.272,0.622,151.052,46,DJ Khaled,,"KEEP GOING (feat. Lil Durk, 21 Savage & Roddy Ricch)",1361
+3,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",211.025,True,0.786,0.618,2,-6.449,1,0.153,0.024,0.0,0.336,0.443,119.964,49,DJ Khaled,,PARTY (feat. Quavo & Takeoff),1362
+4,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",170.197,True,0.742,0.792,7,-4.291,1,0.322,0.00096,0.0,0.365,0.809,147.958,47,DJ Khaled,,IT AIN'T SAFE (feat. Nardo Wick & Kodak Black),1363
+5,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",47.354,False,0.398,0.626,1,-4.164,0,0.0367,0.195,2.55e-05,0.16,0.0404,106.733,50,DJ Khaled,,NO SECRET (feat. Drake),1364
+6,,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",158.979,True,0.62,0.753,1,-7.203,1,0.0424,0.00385,9.4e-06,0.111,0.0711,156.933,52,DJ Khaled,,LET'S PRAY (feat. Don Toliver & Travis Scott),1365
+7,,"['pop', 'r&b']",215.459,True,0.545,0.641,10,-6.398,0,0.0998,0.00453,6.59e-05,0.171,0.464,121.892,68,Beyoncé,,ALIEN SUPERSTAR,1366
+8,,"['reggaeton', 'trap latino', 'urbano latino']",198.367,True,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,76,Bad Bunny,,La Corriente,1367
+9,,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",200.547,True,0.825,0.414,2,-6.634,1,0.144,0.00265,0.0,0.357,0.106,72.993,67,Kodak Black,,Super Gremlin,1368
+10,,"['contemporary country', 'country', 'country road']",186.373,False,0.494,0.782,3,-4.228,1,0.0409,0.0443,0.0,0.0921,0.44,75.932,53,Chris Young,,At the End of a Bar,1369
+11,,['florida rap'],226.115,True,0.614,0.744,11,-5.52,1,0.125,0.309,1.14e-06,0.173,0.589,146.02,53,Rod Wave,,Yungen (feat. Jack Harlow),1370
+12,,"['dfw rap', 'melodic rap', 'pop', 'rap']",127.253,True,0.726,0.756,2,-4.735,1,0.148,0.00686,2.52e-06,0.197,0.63,95.5,68,Post Malone,,Cooped Up / Return Of The Mack,1371
+13,,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",182.325,True,0.934,0.694,9,-4.455,0,0.175,0.117,0.0,0.239,0.464,129.028,47,Offset,,54321,1372
+14,,"['reggaeton', 'trap latino', 'urbano latino']",176.936,True,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,74,Bad Bunny,,Un Ratito,1373
+15,,['florida rap'],174.75,True,0.656,0.679,10,-8.594,1,0.0598,0.014,0.0,0.101,0.27,159.978,59,Rod Wave,,Sweet Little Lies,1374
+16,,"['pop', 'post-teen pop']",163.027,True,0.322,0.698,1,-3.812,0,0.0542,0.00507,0.0,0.249,0.288,183.963,53,Demi Lovato,,29,1375
+17,,"['baton rouge rap', 'rap']",173.419,True,0.83,0.644,10,-5.431,0,0.407,0.0298,0.0,0.11,0.227,155.103,63,YoungBoy Never Broke Again,,Vette Motors,1376
+18,,"['dance pop', 'pop']",138.293,True,0.912,0.655,8,-6.029,0,0.162,0.315,3.39e-05,0.0894,0.793,91.942,73,Doja Cat,,Get Into It (Yuh),1377
+19,,['florida rap'],170.126,True,0.689,0.626,4,-10.224,1,0.065,0.21,0.0,0.109,0.453,157.954,55,Rod Wave,,Never Get Over Me,1378
+20,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",201.334,True,0.814,0.628,7,-7.178,1,0.221,0.167,0.0,0.101,0.677,123.977,68,Megan Thee Stallion,,Sweetest Pie,1379
+21,,"['contemporary country', 'country road', 'modern country rock', 'modern uplift']",157.906,False,0.559,0.66,7,-4.143,1,0.0512,0.222,0.0,0.193,0.574,163.957,65,Parmalee,,Take My Name,1380
+22,,"['contemporary country', 'country', 'country road', 'modern country rock']",230.226,False,0.523,0.64,4,-6.15,1,0.0295,0.0512,5.52e-05,0.0675,0.48,144.022,55,Scotty McCreery,,Damn Strait,1381
+23,,['florida rap'],214.185,True,0.626,0.524,3,-8.987,1,0.0411,0.566,1.14e-05,0.103,0.451,129.996,56,Rod Wave,,Forever,1382
+24,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",137.107,True,0.945,0.848,1,-4.76,1,0.326,0.374,3.31e-05,0.101,0.819,119.918,65,Megan Thee Stallion,,Her,1383
+25,,['florida rap'],180.705,True,0.622,0.533,2,-11.149,1,0.0452,0.0579,0.0,0.152,0.363,170.04,48,Rod Wave,,Stone Rolling,1384
+26,,['florida rap'],187.73,True,0.752,0.523,10,-8.033,1,0.355,0.0478,0.0,0.0622,0.192,81.48,56,Rod Wave,,No Deal,1385
+27,,['florida rap'],157.546,True,0.626,0.772,5,-6.797,1,0.057,0.339,0.0,0.135,0.31,162.975,48,Rod Wave,,I Know It,1386
+28,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",173.061,True,0.844,0.722,1,-5.178,0,0.264,0.011,0.0,0.105,0.67,146.976,49,Megan Thee Stallion,,Pressurelicious (feat. Future),1387
+29,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",154.433,True,0.94,0.606,1,-5.826,1,0.195,0.0215,0.0,0.18,0.507,130.0,58,Megan Thee Stallion,,Ungrateful (feat. Key Glock),1388
+30,,['florida rap'],208.192,True,0.565,0.558,5,-7.634,1,0.0453,0.379,0.0,0.0896,0.0778,82.998,53,Rod Wave,,Pieces,1389
+31,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",201.979,True,0.922,0.858,1,-4.185,1,0.251,0.00451,0.0,0.124,0.915,145.033,56,Megan Thee Stallion,,Budget (feat. Latto),1390
+32,,['florida rap'],137.967,True,0.516,0.533,0,-8.106,1,0.067,0.684,0.0,0.188,0.175,76.325,47,Rod Wave,,Rockstar Heart,1391
+33,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",163.764,True,0.787,0.522,8,-5.872,1,0.463,0.0668,0.0,0.108,0.666,170.439,59,Megan Thee Stallion,,Plan B,1392
+34,,['florida rap'],173.417,True,0.601,0.612,8,-7.65,1,0.0727,0.0508,0.0,0.164,0.517,154.977,48,Rod Wave,,Time Kills (Love Birds),1393
+35,,['florida rap'],163.5,True,0.674,0.656,11,-7.506,1,0.0625,0.324,0.0,0.107,0.38,159.933,47,Rod Wave,,Fading,1394
+36,,"['pop', 'r&b']",224.472,True,0.792,0.919,2,-5.688,1,0.276,0.0381,5.1e-06,0.368,0.22,92.028,61,Beyoncé,,CHURCH GIRL,1395
+37,,"['baton rouge rap', 'rap']",132.75,True,0.763,0.709,9,-5.748,1,0.199,0.00815,0.0,0.123,0.277,160.16,51,YoungBoy Never Broke Again,,Umm Hmm,1396
+38,,"['baton rouge rap', 'rap']",150.857,True,0.569,0.389,3,-8.032,0,0.0449,0.894,0.0,0.118,0.565,140.181,59,YoungBoy Never Broke Again,,I Know,1397
+39,,"['baton rouge rap', 'rap']",141.166,True,0.773,0.602,0,-6.777,1,0.173,0.424,0.0,0.125,0.553,82.055,59,YoungBoy Never Broke Again,,Home Ain't Home (feat. Rod Wave),1398
+40,,"['contemporary country', 'country road', 'modern country rock']",174.36,False,0.529,0.755,1,-5.864,1,0.125,0.219,0.0,0.0986,0.524,96.859,57,Dylan Scott,,New Truck,1399
+41,,"['baton rouge rap', 'rap']",181.132,True,0.808,0.678,5,-6.492,0,0.34,0.0262,0.0,0.107,0.599,159.063,50,YoungBoy Never Broke Again,,Fuck Da Industry,1400
+42,,"['baton rouge rap', 'rap']",169.056,True,0.762,0.65,0,-6.018,1,0.36,0.283,0.0,0.217,0.503,79.488,44,YoungBoy Never Broke Again,,Free Dem 5's,1401
+43,,"['baton rouge rap', 'rap']",155.675,True,0.661,0.679,11,-5.558,0,0.282,0.0533,0.0,0.087,0.723,147.983,47,YoungBoy Never Broke Again,,Lost Soul Survivor,1402
+44,,"['pop', 'r&b']",116.727,False,0.903,0.519,1,-9.151,1,0.26,0.281,0.000106,0.155,0.587,114.991,67,Beyoncé,,ENERGY (feat. Beam),1403
+45,,"['baton rouge rap', 'rap']",187.392,True,0.607,0.837,10,-4.631,0,0.343,0.109,0.0,0.169,0.604,81.486,42,YoungBoy Never Broke Again,,Hold Your Own,1404
+46,,"['baton rouge rap', 'rap']",101.052,True,0.733,0.727,5,-6.415,1,0.268,0.0184,0.000499,0.254,0.48,171.038,43,YoungBoy Never Broke Again,,Top Sound,1405
+47,,"['baton rouge rap', 'rap']",200.0,True,0.718,0.798,10,-5.433,0,0.352,0.157,0.0,0.135,0.786,168.079,45,YoungBoy Never Broke Again,,Kamikaze,1406
+48,,"['baton rouge rap', 'rap']",158.241,True,0.645,0.623,10,-7.225,0,0.255,0.0395,0.0,0.111,0.586,90.636,44,YoungBoy Never Broke Again,,My Time,1407
+49,,"['pop', 'r&b']",208.014,True,0.554,0.535,5,-8.959,0,0.186,0.0616,1.32e-05,0.124,0.136,105.865,64,Beyoncé,,I'M THAT GIRL,1408
+50,,"['pop', 'r&b']",210.372,True,0.556,0.63,7,-8.15,1,0.102,0.000828,0.00468,0.155,0.367,149.147,64,Beyoncé,,COZY,1409
+51,,"['melodic rap', 'rap', 'trap']",247.458,True,0.71,0.828,1,-4.725,1,0.0726,0.199,0.0,0.168,0.316,128.027,49,Trippie Redd,,Big 14 (feat. Moneybagg Yo),1410
+52,,"['pop', 'uk pop']",190.658,False,0.791,0.439,10,-5.62,1,0.0645,0.302,1.85e-05,0.126,0.559,85.004,59,Sam Smith,,Love Me More,1411
+53,,"['baton rouge rap', 'rap']",175.609,True,0.556,0.808,1,-5.391,0,0.428,0.0623,0.0,0.196,0.788,109.168,42,YoungBoy Never Broke Again,,7 Days,1412
+54,,"['pop', 'r&b']",254.319,False,0.618,0.712,1,-8.246,1,0.114,0.14,4.53e-06,0.575,0.305,97.057,61,Beyoncé,,PLASTIC OFF THE SOFA,1413
+55,,"['pop', 'r&b']",368.758,True,0.683,0.85,11,-5.042,0,0.0699,0.0781,1.09e-06,0.741,0.598,107.988,63,Beyoncé,,VIRGO'S GROOVE,1414
+56,,"['pop', 'r&b']",273.997,True,0.674,0.625,1,-9.593,1,0.0514,0.0843,0.0015,0.11,0.208,120.004,62,Beyoncé,,SUMMER RENAISSANCE,1415
+57,,"['pop', 'r&b']",260.769,True,0.785,0.732,1,-5.724,1,0.164,0.0636,0.000807,0.265,0.496,110.952,67,Beyoncé,,HEATED,1416
+58,,"['pop', 'r&b']",244.792,True,0.823,0.536,5,-10.123,0,0.319,0.0616,0.0143,0.326,0.537,128.955,61,Beyoncé,,THIQUE,1417
+59,,"['pop', 'r&b']",203.383,False,0.876,0.628,1,-6.595,1,0.0935,0.0165,0.0339,0.0938,0.809,118.028,62,Beyoncé,,MOVE (feat. Grace Jones & Tems),1418
+60,,"['pop', 'r&b']",288.254,True,0.857,0.558,1,-7.888,1,0.134,0.0122,4.8e-05,0.288,0.453,123.973,64,Beyoncé,,PURE/HONEY,1419
+61,,"['pop', 'r&b']",198.897,True,0.789,0.614,1,-6.491,1,0.0579,0.00348,0.00152,0.283,0.108,126.035,65,Beyoncé,,AMERICA HAS A PROBLEM,1420
+62,,"['pop', 'r&b']",169.819,True,0.744,0.577,9,-7.228,1,0.0631,0.0672,3.06e-06,0.178,0.0805,135.869,59,Beyoncé,,ALL UP IN YOUR MIND,1421
+63,,"['contemporary country', 'country', 'country road', 'modern country rock']",196.026,False,0.582,0.797,5,-4.926,1,0.0334,0.23,0.0,0.132,0.595,135.973,57,Jason Aldean,,Trouble with a Heartbreak,1422
+64,,['australian hip hop'],164.781,True,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,0.203,80.565,68,The Kid LAROI,,THOUSAND MILES,1423
+65,,"['pop', 'singer-songwriter pop', 'uk pop']",153.626,False,0.763,0.661,4,-5.592,0,0.056,0.169,0.0,0.117,0.632,95.002,63,Ed Sheeran,,2step,1424
+66,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",336.924,False,0.499,0.671,4,-6.774,0,0.0561,0.114,0.0169,0.148,0.0557,124.994,69,Drake,,Massive,1425
+67,,"['contemporary country', 'country', 'country road']",187.432,False,0.512,0.838,7,-3.82,1,0.0308,0.0419,0.000242,0.112,0.326,156.039,53,Jake Owen,,Best Thing Since Backroads,1426
+68,,['pop'],153.0,True,0.345,0.612,7,-6.543,0,0.0608,0.232,0.0,0.194,0.232,179.773,73,Dove Cameron,,Boyfriend,1427
+69,,['lgbtq+ hip hop'],143.901,True,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,76,Lil Nas X,,THATS WHAT I WANT,1429
+70,,"['dance pop', 'pop']",172.626,True,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,82,Doja Cat,,Woman,1430
+71,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",181.393,True,0.795,0.526,6,-9.086,0,0.204,0.067,2e-06,0.134,0.194,140.037,63,Lil Durk,,What Happened To Virgil (feat. Gunna),1431
+72,,"['art pop', 'pop']",281.38,False,0.412,0.236,4,-15.159,0,0.0379,0.83,0.00653,0.147,0.119,140.214,81,Billie Eilish,,TV,1432
+73,,[],187.48,False,0.518,0.662,3,-5.235,1,0.0311,0.0432,0.0,0.115,0.583,151.954,33,John Rich,,Progress,1433
+74,,"['art pop', 'pop']",216.448,False,0.387,0.135,7,-14.398,1,0.051,0.929,0.0,0.0948,0.21,82.987,72,Billie Eilish,,The 30th,1434
+75,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",220.779,True,0.907,0.577,1,-6.737,0,0.0767,0.438,3.19e-05,0.137,0.801,140.07,67,Kendrick Lamar,,Silent Hill,1435
+76,,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",146.732,True,0.936,0.497,1,-7.185,1,0.41,0.0324,0.0,0.111,0.364,138.016,55,Moneybagg Yo,,See Wat I’m Sayin,1436
+77,,"['hip hop', 'pittsburgh rap', 'rap']",162.875,True,0.735,0.812,2,-4.417,1,0.151,0.528,0.0,0.186,0.584,109.829,75,Mac Miller,,Love Lost,1437
+78,,"['dance pop', 'pop']",216.135,True,0.877,0.56,7,-3.751,1,0.0596,0.00721,1.45e-06,0.0839,0.154,119.971,66,Pharrell Williams,,Cash In Cash Out,1438
+79,,"['colombian pop', 'dance pop', 'latin pop', 'pop']",172.235,False,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,71,Shakira,,Te Felicito,1439
+80,,"['hawaiian hip hop', 'pop rap']",156.083,True,0.587,0.61,10,-6.881,0,0.234,0.0402,0.0,0.167,0.556,130.063,60,Russ,,Are You Entertained,1440
+81,,"['atl hip hop', 'atl trap', 'rap', 'trap']",213.975,True,0.535,0.618,2,-5.668,1,0.382,0.0245,0.0,0.103,0.211,165.991,61,Lil Baby,,Right On,1441
+82,,"['pop', 'singer-songwriter pop', 'uk pop']",230.746,False,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,80,Ed Sheeran,,Bad Habits,1442
+83,,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",515.386,False,0.539,0.828,4,-9.108,0,0.035,0.00067,0.421,0.154,0.562,105.25,72,Metallica,,Master of Puppets (Remastered),1443
+84,,['modern country pop'],214.405,False,0.544,0.459,7,-5.908,1,0.0266,0.119,0.0,0.0831,0.231,128.062,72,ERNEST,,Flower Shops (feat. Morgan Wallen),1444
+85,,"['contemporary country', 'country', 'country road', 'modern country rock']",221.4,False,0.528,0.718,7,-6.954,1,0.0337,0.1,0.0,0.304,0.51,155.759,56,Tim McGraw,,7500 OBO,1445
+86,,"['dance pop', 'pop']",206.07,False,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,71,Camila Cabello,,Bam Bam (feat. Ed Sheeran),1446
+87,,"['k-pop', 'k-rap']",159.761,True,0.938,0.798,1,-3.998,1,0.103,0.00813,7.03e-05,0.146,0.265,99.992,65,j-hope,,Arson,1447
+88,,"['r&b', 'rap']",226.011,True,0.574,0.369,1,-8.931,0,0.0814,0.753,0.0,0.147,0.44,84.975,61,Brent Faiyaz,,LOOSE CHANGE,1448
+89,,"['r&b', 'rap']",379.004,True,0.428,0.367,9,-9.905,1,0.0914,0.132,0.0,0.149,0.174,71.184,58,Brent Faiyaz,,PRICE OF FAME,1449
+90,,"['canadian pop', 'pop', 'viral pop']",172.266,False,0.603,0.691,5,-5.805,1,0.0372,0.0248,0.0,0.583,0.577,147.148,71,Shawn Mendes,,When You're Gone,1450
+91,,"['r&b', 'rap']",214.692,True,0.541,0.619,1,-8.746,0,0.254,0.167,0.00633,0.144,0.491,163.908,68,Brent Faiyaz,,"GRAVITY (FEAT. TYLER, THE CREATOR)",1451
+92,,"['art pop', 'dance pop', 'pop']",225.3,False,0.519,0.617,7,-4.287,1,0.0313,0.0387,0.0,0.401,0.222,147.708,68,Lady Gaga,,Hold My Hand,1452
+93,,"['r&b', 'rap']",162.006,True,0.462,0.273,11,-11.768,0,0.0622,0.903,3.71e-05,0.101,0.334,141.33,71,Brent Faiyaz,,ROLLING STONE,1453
+94,,"['classic texas country', 'contemporary country']",195.76,False,0.591,0.814,4,-4.986,1,0.0468,0.015,0.0,0.117,0.815,149.9,47,Maren Morris,,Circles Around This Town,1454
+95,,['gambian hip hop'],152.137,True,0.745,0.65,2,-11.814,1,0.346,0.0451,0.00758,0.111,0.386,144.047,64,JNR CHOI,,TO THE MOON,1455
+96,,"['r&b', 'rap']",198.005,True,0.524,0.233,3,-12.991,0,0.104,0.869,4.59e-06,0.369,0.585,175.805,57,Brent Faiyaz,,GHETTO GATSBY (FEAT. ALICIA KEYS),1456
+97,,"['r&b', 'rap']",75.043,True,0.287,0.332,1,-10.15,0,0.0433,0.678,0.00375,0.11,0.204,177.804,57,Brent Faiyaz,,HEAL YOUR HEART (INTERLUDE),1457
+98,,"['r&b', 'rap']",198.003,True,0.783,0.48,3,-9.182,0,0.251,0.258,4.73e-06,0.305,0.364,133.086,54,Brent Faiyaz,,FYTB (FEAT. JOONY),1458
+99,,"['r&b', 'rap']",301.304,True,0.443,0.72,7,-3.743,0,0.0733,0.0669,0.0,0.0909,0.374,89.378,56,Brent Faiyaz,,WASTING TIME (FEAT. DRAKE & THE NEPTUNES),1459
+100,,"['k-pop', 'k-rap']",180.022,False,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,67,j-hope,,MORE,1460
+101,,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",224.996,True,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,83,Rauw Alejandro,,Desesperados,1461
+102,,"['atl hip hop', 'atl trap', 'rap', 'trap']",235.5,True,0.824,0.583,1,-6.537,1,0.147,0.00253,0.0,0.266,0.154,147.496,55,Lil Baby,,U-Digg (feat. 42 Dugg & Veeze),1462
+103,,"['pluggnb', 'rage rap']",165.517,False,0.639,0.518,7,-13.892,0,0.312,0.108,0.0,0.307,0.497,145.058,52,Yeat,,Rich Minion,1463
+104,,['pop'],264.438,False,0.476,0.189,11,-13.777,0,0.0329,0.904,4.52e-06,0.254,0.324,115.851,63,Taylor Swift,,Carolina - From The Motion Picture “Where The Crawdads Sing”,1465
+105,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",266.178,False,0.718,0.758,10,-8.29,1,0.0703,0.238,0.00653,0.11,0.349,118.989,59,Drake,,Falling Back,1466
+106,,"['contemporary country', 'country']",208.733,False,0.54,0.694,7,-4.477,1,0.0275,0.144,0.0,0.197,0.444,146.148,53,Luke Combs,,Tomorrow Me,1467
+107,,['lgbtq+ hip hop'],180.666,True,0.872,0.422,1,-7.415,0,0.363,0.0254,0.0,0.109,0.778,149.956,52,Lil Nas X,,Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again),1468
+108,,"['detroit hip hop', 'hip hop', 'rap']",215.12,True,0.73,0.785,9,-7.986,0,0.243,0.105,0.0,0.0445,0.596,82.037,61,Eminem,,From The D 2 The LBC (with Snoop Dogg),1469
+109,,"['r&b', 'rap']",220.76,True,0.739,0.58,1,-7.414,1,0.0637,0.0395,0.0,0.114,0.452,96.501,55,Chris Brown,,Psychic,1471
+110,,"['r&b', 'rap']",234.946,False,0.695,0.603,1,-6.543,1,0.104,0.0992,0.0,0.084,0.9,86.987,47,Chris Brown,,WE (Warm Embrace),1472
+111,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",160.033,True,0.774,0.551,1,-5.862,1,0.0854,0.0334,0.0,0.109,0.0858,137.932,46,Lil Durk,,Burglars & Murderers (feat. EST Gee),1473
+112,,"['r&b', 'rap']",218.266,True,0.654,0.532,5,-9.07,0,0.143,0.00892,0.0,0.104,0.389,85.016,50,Chris Brown,,Addicted (feat. Lil Baby),1474
+113,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",308.82,False,0.765,0.627,0,-4.607,1,0.0622,0.000916,0.195,0.0847,0.536,118.997,60,Drake,,Texts Go Green,1475
+114,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",156.0,True,0.735,0.709,10,-8.894,0,0.323,0.0925,0.0,0.301,0.676,160.007,42,Lil Durk,,Did Shit To Me (feat. Doodie Lo),1476
+115,,"['r&b', 'rap']",233.746,True,0.734,0.398,9,-9.453,1,0.243,0.0136,0.000158,0.111,0.243,91.941,49,Chris Brown,,Possessive (feat. Lil Wayne & BLEU),1477
+116,,"['brooklyn drill', 'nyc rap']",148.816,True,0.812,0.582,11,-6.26,1,0.334,0.823,0.0,0.111,0.672,77.475,69,Sleepy Hallow,,Die Young (feat. 347aidan),1478
+117,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",129.964,True,0.826,0.276,11,-11.227,0,0.266,0.62,8.53e-05,0.118,0.484,123.985,58,Drake,,Calling My Name,1479
+118,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",173.097,True,0.6,0.482,1,-11.596,1,0.0701,0.512,0.000104,0.115,0.323,121.909,63,Drake,,A Keeper,1480
+119,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",157.39,False,0.883,0.283,0,-12.653,1,0.113,0.104,0.00167,0.0935,0.416,122.013,58,Drake,,Currents,1481
+120,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",254.407,False,0.593,0.41,3,-13.097,0,0.0531,0.886,0.0993,0.115,0.201,122.584,65,Drake,,Flight's Booked,1482
+121,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",202.451,False,0.502,0.645,2,-10.611,0,0.122,0.444,0.00964,0.107,0.518,109.739,57,Drake,,Overdrive,1483
+122,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",237.932,True,0.557,0.706,0,-6.592,1,0.0649,0.268,0.0,0.132,0.582,105.013,57,Drake,,Liability,1484
+123,,"['contemporary country', 'country', 'country road', 'modern country rock']",189.56,False,0.634,0.764,4,-5.858,1,0.0297,0.00354,0.0,0.337,0.736,104.03,57,Walker Hayes,,AA,1485
+124,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",250.864,False,0.718,0.319,3,-11.261,1,0.0435,0.965,0.00036,0.0895,0.639,109.994,53,Drake,,Down Hill,1486
+125,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",336.005,False,0.775,0.688,4,-10.912,0,0.0593,0.0176,0.0917,0.108,0.284,120.017,56,Drake,,Tie That Binds,1487
+126,,"['k-pop', 'k-pop boy group', 'pop']",193.593,False,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,68,BTS,,Yet To Come,1488
+127,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",195.95,True,0.79,0.67,1,-5.527,1,0.105,0.377,2.32e-06,0.119,0.408,139.956,78,Kendrick Lamar,,N95,1489
+128,,['pop'],207.12,False,0.602,0.626,2,-5.323,0,0.0396,0.0129,9.02e-06,0.144,0.619,160.118,74,Tate McRae,,she's all i wanna be,1490
+129,,"['classic texas country', 'contemporary country', 'modern country pop']",224.213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,73,Cody Johnson,,'Til You Can't,1491
+130,,"['contemporary country', 'country', 'country dawn', 'country road']",195.013,False,0.575,0.644,6,-5.68,0,0.0309,0.271,0.0,0.131,0.626,80.07,56,Miranda Lambert,,If I Was a Cowboy,1492
+131,,"['k-pop', 'k-pop boy group', 'pop']",204.939,False,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,0.696,77.004,75,BTS,,Run BTS,1493
+132,,"['chicago rap', 'rap']",171.319,True,0.713,0.689,11,-5.99,1,0.255,0.16,0.0,0.136,0.63,156.934,59,Polo G,,Distraction,1494
+133,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",239.026,True,0.775,0.736,1,-8.072,0,0.247,0.319,0.00116,0.127,0.362,100.988,74,Kendrick Lamar,,Die Hard,1495
+134,,"['chicago rap', 'hip hop', 'rap']",148.571,False,0.712,0.861,5,-5.487,0,0.25,0.0182,6.09e-06,0.511,0.388,84.042,74,Kanye West,,True Love,1497
+135,,"['r&b', 'rap', 'uk contemporary r&b', 'urban contemporary']",197.52,True,0.708,0.673,6,-4.163,1,0.0585,0.499,0.000233,0.103,0.311,136.969,61,Ella Mai,,DFMU,1498
+136,,['pop'],245.964,False,0.507,0.294,2,-10.0,1,0.04,0.896,1.97e-05,0.0966,0.386,114.199,76,Harry Styles,,Matilda,1499
+137,,"['reggaeton', 'trap latino', 'urbano latino']",230.704,True,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,72,Bad Bunny,,Yo No Soy Celoso,1500
+138,,['pop'],164.533,False,0.686,0.445,0,-7.189,1,0.0398,0.484,0.00144,0.175,0.626,145.5,72,Harry Styles,,Daylight,1501
+139,,"['contemporary country', 'country', 'country road', 'modern country rock']",216.764,False,0.464,0.755,4,-5.707,1,0.0354,0.00838,0.0,0.0989,0.449,155.973,50,Thomas Rhett,,Slow Down Summer,1502
+140,,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",214.459,True,0.824,0.697,11,-4.869,0,0.0473,0.158,4.11e-05,0.077,0.757,99.988,64,Calvin Harris,,Potion (with Dua Lipa & Young Thug),1503
+141,,"['dfw rap', 'melodic rap', 'pop', 'rap']",193.565,False,0.744,0.628,2,-5.435,1,0.0287,0.0493,0.0,0.317,0.539,119.966,67,Post Malone,,Wrapped Around Your Finger,1504
+142,,"['dfw rap', 'melodic rap', 'pop', 'rap']",193.506,True,0.687,0.781,1,-4.806,1,0.053,0.0361,0.0,0.0755,0.688,97.014,70,Post Malone,,One Right Now (with The Weeknd),1505
+143,,"['dfw rap', 'melodic rap', 'pop', 'rap']",169.824,True,0.517,0.668,1,-6.012,1,0.116,0.0712,0.0,0.407,0.646,79.782,58,Post Malone,,I Cannot Be (A Sadder Song) (with Gunna),1506
+144,,"['dfw rap', 'melodic rap', 'pop', 'rap']",243.486,True,0.611,0.584,11,-6.897,0,0.0301,0.083,0.0,0.432,0.181,116.106,59,Post Malone,,Lemon Tree,1507
+145,,"['dfw rap', 'melodic rap', 'pop', 'rap']",248.177,True,0.314,0.439,2,-5.726,1,0.0311,0.671,0.0,0.181,0.364,180.119,56,Post Malone,,Reputation,1508
+146,,"['dfw rap', 'melodic rap', 'pop', 'rap']",243.158,False,0.583,0.43,9,-7.748,1,0.0353,0.801,0.0,0.0867,0.367,84.967,61,Post Malone,,Wasting Angels (with The Kid LAROI),1509
+147,,"['dfw rap', 'melodic rap', 'pop', 'rap']",169.66,True,0.645,0.671,10,-7.208,0,0.0459,0.0597,8e-06,0.11,0.365,82.546,53,Post Malone,,Insane,1510
+148,,"['dfw rap', 'melodic rap', 'pop', 'rap']",183.816,True,0.475,0.569,4,-7.073,0,0.0343,0.037,0.00129,0.232,0.0395,108.007,52,Post Malone,,Love/Hate Letter To Alcohol (with Fleet Foxes),1511
+149,,['pop'],202.183,False,0.559,0.535,3,-7.723,1,0.039,0.719,0.000143,0.0954,0.402,141.96,72,Harry Styles,,Little Freak,1512
+150,,['pop'],191.958,False,0.645,0.721,5,-4.394,1,0.0336,0.357,0.143,0.204,0.88,182.928,67,Harry Styles,,Grapejuice,1513
+151,,['pop'],218.577,False,0.576,0.457,0,-6.473,1,0.0304,0.143,3.05e-05,0.0917,0.301,138.984,73,Harry Styles,,Satellite,1514
+152,,"['dfw rap', 'melodic rap', 'pop', 'rap']",195.11,False,0.485,0.656,10,-6.121,0,0.0528,0.0346,0.0,0.155,0.106,140.107,53,Post Malone,,When I’m Alone,1515
+153,,"['dfw rap', 'melodic rap', 'pop', 'rap']",145.795,True,0.301,0.303,4,-12.39,1,0.0458,0.177,0.031,0.0979,0.0384,141.997,48,Post Malone,,Euthanasia,1516
+154,,"['contemporary country', 'country', 'country road', 'modern country rock']",176.146,False,0.472,0.937,0,-4.028,0,0.0567,0.00717,0.0,0.11,0.454,140.073,57,Cole Swindell,,Never Say Never (with Lainey Wilson),1517
+155,,['pop'],243.507,False,0.829,0.644,9,-7.696,0,0.0427,0.354,0.0511,0.0944,0.896,105.993,67,Harry Styles,,Cinema,1518
+156,,['pop'],140.241,False,0.721,0.479,9,-9.669,1,0.226,0.321,0.00156,0.182,0.902,164.948,73,Harry Styles,,Keep Driving,1519
+157,,['pop'],187.342,False,0.707,0.811,4,-5.298,0,0.0304,0.311,0.0152,0.131,0.899,113.971,67,Harry Styles,,Daydreaming,1520
+158,,['pop'],191.638,False,0.555,0.536,7,-8.233,1,0.0452,0.669,0.0,0.0623,0.203,118.057,69,Harry Styles,,Love Of My Life,1521
+159,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",202.285,True,0.852,0.421,10,-9.153,0,0.208,0.428,2.28e-06,0.106,0.457,95.977,75,Kendrick Lamar,,Rich Spirit,1522
+160,,['pop'],194.543,False,0.417,0.202,0,-10.976,1,0.0357,0.935,0.0,0.108,0.323,118.029,64,Harry Styles,,Boyfriends,1523
+161,,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",135.053,True,0.833,0.652,11,-6.942,1,0.0762,0.00161,0.0985,0.106,0.405,158.022,64,Jack Harlow,,Dua Lipa,1524
+162,,"['hawaiian hip hop', 'pop rap']",143.414,True,0.891,0.62,8,-6.822,1,0.157,0.176,1.59e-06,0.103,0.535,82.035,64,Russ,,HANDSOMER (Remix) (Feat. Ktlyn),1525
+163,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",236.186,True,0.773,0.707,11,-5.71,1,0.0568,0.0103,1.04e-05,0.296,0.113,76.977,61,Future,,I'M ON ONE (feat. Drake),1526
+164,,"['reggaeton', 'trap latino', 'urbano latino']",339.611,True,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,76,Bad Bunny,,Andrea,1527
+165,,"['contemporary country', 'country', 'country road', 'modern country rock']",182.93,False,0.605,0.786,4,-4.138,1,0.0379,0.00276,0.0,0.347,0.512,116.995,54,Keith Urban,,Wild Hearts,1528
+166,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",222.497,True,0.514,0.779,10,-4.365,0,0.344,0.181,0.0,0.099,0.517,152.869,70,Kendrick Lamar,,Father Time (feat. Sampha),1529
+167,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",283.642,True,0.776,0.431,4,-7.544,0,0.091,0.671,0.0,0.153,0.495,133.999,76,Kendrick Lamar,,Count Me Out,1530
+168,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",255.377,True,0.529,0.845,8,-8.142,1,0.404,0.244,0.0,0.143,0.331,85.63,74,Kendrick Lamar,,United In Grief,1531
+169,,"['florida drill', 'florida rap', 'southern hip hop']",225.533,True,0.534,0.573,1,-6.757,1,0.414,0.00926,0.0,0.136,0.373,160.333,62,Nardo Wick,,Me or Sum (feat. Future & Lil Baby),1532
+170,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",136.266,True,0.773,0.422,1,-4.572,0,0.187,0.00783,0.00693,0.129,0.488,77.502,69,Gunna,,pushin P (feat. Young Thug),1533
+171,,"['contemporary country', 'country', 'country road']",214.416,False,0.553,0.609,1,-6.436,1,0.0469,0.151,0.0,0.112,0.471,73.903,53,Carly Pearce,,Never Wanted To Be That Girl,1534
+172,,"['r&b', 'rap']",231.497,True,0.707,0.618,1,-5.825,0,0.19,0.17,0.0,0.293,0.517,133.876,73,Summer Walker,,No Love (with SZA),1535
+173,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",224.466,True,0.605,0.692,8,-7.45,1,0.446,0.495,0.0,0.303,0.685,124.84,65,Kendrick Lamar,,Savior,1536
+174,,"['reggaeton', 'trap latino', 'urbano latino']",210.989,True,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,73,Bad Bunny,,Aguacero,1537
+175,,"['reggaeton', 'trap latino', 'urbano latino']",196.412,True,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,79,Bad Bunny,,Un Coco,1538
+176,,"['reggaeton', 'trap latino', 'urbano latino']",244.444,False,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,77,Bad Bunny,,Otro Atardecer,1539
+177,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",341.307,True,0.648,0.68,11,-7.276,1,0.345,0.292,0.0,0.0808,0.504,106.89,63,Kendrick Lamar,,We Cry Together,1540
+178,,"['reggaeton', 'trap latino', 'urbano latino']",208.615,True,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,75,Bad Bunny,,Dos Mil 16,1541
+179,,"['pop r&b', 'r&b']",226.373,True,0.662,0.655,2,-5.44,1,0.26,0.462,0.0,0.124,0.356,82.079,52,Queen Naija,,Hate Our Love (with Big Sean),1542
+180,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",203.367,True,0.514,0.472,8,-11.106,0,0.368,0.753,0.00012,0.0746,0.557,77.215,61,Kendrick Lamar,,Worldwide Steppers,1543
+181,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",329.295,True,0.567,0.824,3,-6.973,0,0.296,0.167,2.65e-06,0.149,0.737,138.202,64,Kendrick Lamar,,Purple Hearts,1544
+182,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",103.319,True,0.481,0.406,7,-11.52,1,0.0775,0.864,0.000315,0.0869,0.741,91.589,58,Kendrick Lamar,,Rich - Interlude,1545
+183,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",210.841,True,0.727,0.53,9,-8.616,1,0.312,0.283,2.76e-05,0.392,0.258,174.025,63,Kendrick Lamar,,Mr. Morale,1546
+184,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",264.299,True,0.355,0.245,1,-13.475,0,0.0358,0.801,9.11e-05,0.112,0.162,173.329,60,Kendrick Lamar,,Crown,1547
+185,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",281.069,True,0.52,0.375,0,-13.409,1,0.358,0.745,0.0122,0.429,0.589,127.544,58,Kendrick Lamar,,Auntie Diaries,1548
+186,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",152.985,True,0.618,0.43,5,-9.38,0,0.216,0.807,0.0,0.189,0.826,117.125,58,Kendrick Lamar,,Savior - Interlude,1549
+187,,"['contemporary country', 'country']",254.173,False,0.588,0.55,1,-5.878,1,0.0269,0.166,8.67e-06,0.11,0.39,115.01,63,Luke Combs,,Doin' This,1550
+188,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",256.006,True,0.652,0.67,2,-8.766,1,0.0639,0.225,1.4e-05,0.0804,0.274,91.933,63,Kendrick Lamar,,Mirror,1551
+189,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",406.528,True,0.492,0.369,8,-14.861,0,0.329,0.87,2.85e-05,0.11,0.491,140.012,59,Kendrick Lamar,,Mother I Sober (feat. Beth Gibbons of Portishead),1552
+190,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",332.228,True,0.7,0.812,1,-8.128,0,0.297,0.183,0.0,0.0756,0.801,97.405,61,Kendrick Lamar,,The Heart Part 5,1553
+191,,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",309.327,True,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,65,Jack Harlow,,Churchill Downs (feat. Drake),1554
+192,,"['reggaeton', 'trap latino', 'urbano latino']",201.816,True,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,0.599,117.765,68,Bad Bunny,,El Apagón,1555
+193,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",173.186,True,0.711,0.686,5,-6.409,0,0.271,0.0355,0.0,0.124,0.536,146.971,62,Future,,712PM,1556
+194,,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",164.818,False,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,74,Tiësto,,The Motto,1557
+195,,"['reggaeton', 'trap latino', 'urbano latino']",180.929,False,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,73,Bad Bunny,,Me Fui de Vacaciones,1558
+196,,"['reggaeton', 'trap latino', 'urbano latino']",176.0,False,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,73,Bad Bunny,,Enséñame a Bailar,1559
+197,,"['alt z', 'gen z singer-songwriter', 'singer-songwriter pop']",157.863,True,0.684,0.449,3,-9.738,1,0.611,0.869,0.0,0.0899,0.341,66.165,69,Lauren Spencer Smith,,Flowers,1560
+198,,"['alt z', 'modern alternative pop']",168.601,True,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,74,GAYLE,,abcdefu,1561
+199,,['lgbtq+ hip hop'],212.0,True,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,75,Lil Nas X,,INDUSTRY BABY (feat. Jack Harlow),1562
+200,,"['british soul', 'pop', 'pop soul', 'uk pop']",224.694,False,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,84,Adele,,Easy On Me,1563
+201,,"['dance pop', 'pop']",210.56,True,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,76,Doja Cat,,Need to Know,1564
+202,,"['reggaeton', 'trap latino', 'urbano latino']",196.412,True,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,79,Bad Bunny,,Un Coco,1565
+203,,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",206.385,True,0.677,0.557,1,-8.409,1,0.0694,0.00508,8.36e-06,0.0984,0.1,150.127,62,Jack Harlow,,Nail Tech,1567
+204,,['movie tunes'],216.12,False,0.577,0.45,0,-8.516,0,0.0834,0.357,0.0,0.111,0.83,205.863,73,Carolina Gaitán - La Gaita,,We Don't Talk About Bruno,1568
+205,,"['reggaeton', 'trap latino', 'urbano latino']",139.041,True,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,77,Bad Bunny,,Agosto,1569
+206,,"['afrobeats', 'nigerian pop']",187.111,True,0.956,0.417,7,-7.892,0,0.0926,0.572,0.00071,0.0782,0.714,108.015,68,Fireboy DML,,Peru,1571
+207,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",106.133,True,0.916,0.453,1,-4.148,1,0.158,0.000189,0.0,0.137,0.152,145.007,59,Future,,MASSAGING ME,1572
+208,,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",193.765,True,0.832,0.522,2,-7.244,1,0.05,0.012,0.079,0.377,0.253,150.044,51,Jack Harlow,,I'd Do Anything To Make You Smile,1573
+209,,"['contemporary country', 'country', 'country road', 'modern country rock']",174.68,False,0.59,0.846,4,-4.251,1,0.0396,0.182,0.0,0.53,0.733,146.028,68,Dierks Bentley,,Beers On Me,1574
+210,,"['alt z', 'gen z singer-songwriter', 'singer-songwriter pop']",175.344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,71,Lauren Spencer Smith,,Fingers Crossed,1575
+211,,"['atl hip hop', 'atl trap', 'rap', 'trap']",179.148,True,0.514,0.65,6,-8.867,1,0.499,0.138,0.0,0.103,0.236,127.428,54,Lil Baby,,Frozen,1576
+212,,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",224.841,True,0.841,0.566,4,-5.501,0,0.289,0.00882,0.0,0.0635,0.269,95.941,47,Jack Harlow,,Young Harleezy,1577
+213,,"['contemporary country', 'country', 'country pop', 'modern country rock']",179.72,False,0.641,0.78,3,-5.138,1,0.0852,0.0206,0.0,0.143,0.693,98.004,64,Sam Hunt,,23,1578
+214,,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",222.642,True,0.549,0.485,4,-8.477,0,0.322,0.179,0.0,0.368,0.626,112.029,47,Jack Harlow,,Poison (feat. Lil Wayne),1579
+215,,"['canadian pop', 'pop']",193.322,True,0.81,0.655,8,-6.779,0,0.0698,0.127,8.16e-05,0.105,0.809,150.002,62,Justin Bieber,,Honest (feat. Don Toliver),1580
+216,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",207.213,True,0.652,0.578,0,-6.187,1,0.161,0.00861,0.0,0.285,0.195,87.395,52,Future,,KEEP IT BURNIN (feat. Kanye West),1581
+217,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",207.933,True,0.824,0.667,10,-6.603,0,0.0814,0.00321,2.65e-06,0.0956,0.305,82.037,47,Future,,FOR A NUT (feat. Gunna & Young Thug),1582
+218,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",195.266,True,0.862,0.619,11,-6.197,0,0.221,0.0403,0.0,0.253,0.624,148.059,48,Future,,CHICKENS (feat. EST Gee),1583
+219,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",162.333,True,0.763,0.526,5,-6.753,0,0.355,0.00937,2.25e-06,0.111,0.362,181.856,48,Future,,GOLD STACKS,1584
+220,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",211.133,True,0.499,0.404,1,-9.469,0,0.381,0.0686,1.11e-06,0.125,0.237,77.565,47,Future,,VOODOO (feat. Kodak Black),1585
+221,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",133.133,True,0.827,0.634,10,-5.54,0,0.21,0.00854,0.000109,0.332,0.609,158.98,47,Future,,WE JUS WANNA GET HIGH,1586
+222,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",170.266,True,0.784,0.719,11,-4.56,0,0.31,0.0215,2.27e-05,0.253,0.293,157.997,51,Future,,HOLY GHOST,1587
+223,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",177.026,True,0.765,0.46,3,-7.23,0,0.376,0.442,4.11e-06,0.0794,0.418,119.919,48,Future,,BACK TO THE BASICS,1589
+224,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",179.493,True,0.639,0.743,6,-4.917,0,0.261,0.0234,1.72e-05,0.108,0.27,175.067,43,Future,,THE WAY THINGS GOING,1590
+225,,"['contemporary country', 'modern country pop']",217.801,False,0.639,0.839,11,-4.99,1,0.0364,0.0529,0.0,0.0854,0.528,126.057,70,HARDY,,GIVE HEAVEN SOME HELL,1591
+226,,"['k-rap', 'korean old school hip hop']",174.646,False,0.903,0.962,4,-3.203,1,0.0852,0.0302,0.0,0.0273,0.906,129.968,71,PSY,,That That (prod.&feat. SUGA of BTS),1592
+227,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",185.6,False,0.659,0.745,10,-3.599,1,0.0347,0.0417,0.0,0.296,0.54,74.967,78,Lil Durk,,Broadway Girls (feat. Morgan Wallen),1593
+228,,['singer-songwriter pop'],216.41,False,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,82,Benson Boone,,In The Stars,1594
+229,,['movie tunes'],202.226,False,0.65,0.584,2,-8.286,1,0.307,0.0174,1.54e-06,0.042,0.37,180.088,70,Jessica Darrow,,Surface Pressure,1595
+230,,"['pop', 'viral pop']",187.703,False,0.689,0.627,6,-5.692,1,0.308,0.105,0.000321,0.0905,0.905,184.008,72,Charlie Puth,,Light Switch,1596
+231,,"['chicago indie', 'pov: indie']",160.239,False,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,87,The Walters,,I Love You So,1597
+232,,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']",193.805,False,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,69,Anitta,,Envolver,1598
+233,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",186.538,True,0.676,0.61,1,-9.185,1,0.273,0.000114,1.73e-06,0.191,0.519,156.005,57,Lil Durk,,AHHH HA,1600
+234,,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",185.855,True,0.688,0.842,2,-4.211,1,0.264,0.0499,0.0,0.241,0.416,159.897,61,Gucci Mane,,Rumors (feat. Lil Durk),1601
+235,,"['alternative r&b', 'r&b']",207.413,True,0.65,0.555,6,-5.971,0,0.0719,0.502,0.0,0.104,0.352,103.081,66,Lucky Daye,,Over,1602
+236,,"['bronx drill', 'melodic drill', 'new york drill']",118.249,True,0.87,0.832,1,-5.985,1,0.314,0.0331,0.0,0.14,0.906,140.02,55,Kay Flock,,"Shake It (feat. Cardi B, Dougie B & Bory 300)",1603
+237,,"['canadian contemporary r&b', 'canadian pop', 'pop']",215.626,True,0.679,0.825,0,-5.487,1,0.0309,0.0212,1.21e-05,0.543,0.644,118.049,85,The Weeknd,,Save Your Tears,1604
+238,,"['dance pop', 'pop', 'uk pop']",203.064,False,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,80,Dua Lipa,,Levitating (feat. DaBaby),1605
+239,,"['pop', 'r&b', 'rap']",173.906,True,0.533,0.417,7,-8.665,0,0.148,0.514,0.0,0.114,0.376,106.534,69,SZA,,I Hate U,1606
+240,,"['dance pop', 'pop']",186.173,True,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,76,Doja Cat,,You Right,1607
+241,,"['contemporary country', 'country', 'country road', 'modern country rock']",161.853,False,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,71,Walker Hayes,,Fancy Like,1608
+242,,"['atl hip hop', 'atl trap']",221.538,True,0.744,0.608,2,-6.386,1,0.0442,0.0295,0.0,0.397,0.0692,130.045,59,Southside,,Hold That Heat (feat. Travis Scott),1610
+243,,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",152.612,True,0.594,0.679,7,-3.702,1,0.345,0.484,7.83e-06,0.114,0.66,106.726,56,Pusha T,,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),1611
+244,,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",209.314,True,0.625,0.542,9,-4.365,1,0.266,0.0223,0.0,0.377,0.328,152.403,49,Pusha T,,Neck & Wrist (feat. JAY-Z & Pharrell Williams),1612
+245,,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",233.922,True,0.687,0.783,0,-4.573,1,0.191,0.0526,0.0,0.0718,0.359,156.141,51,Pusha T,,Rock N Roll (feat. Kanye West & Kid Cudi),1613
+246,,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",173.633,True,0.594,0.913,6,-2.372,0,0.255,0.655,0.0,0.423,0.897,80.302,58,Pusha T,,Dreamin Of The Past (feat. Kanye West),1614
+247,,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",135.264,True,0.684,0.545,1,-6.885,1,0.121,0.159,0.0,0.102,0.407,143.049,67,Lil Tjay,,In My Head,1615
+248,,['sad sierreno'],213.999,False,0.708,0.449,4,-4.369,0,0.0286,0.451,0.0,0.111,0.63,84.396,60,Yahritza Y Su Esencia,,Soy El Unico,1616
+249,,"['black americana', 'contemporary country', 'country', 'country road']",214.238,False,0.447,0.538,5,-7.258,1,0.0338,0.119,0.0,0.188,0.453,123.746,46,Kane Brown,,Leave You Alone,1617
+250,,"['canadian contemporary r&b', 'canadian pop', 'pop']",214.193,False,0.65,0.76,0,-4.422,0,0.0446,0.255,0.0,0.339,0.838,93.057,74,The Weeknd,,Out of Time,1618
+251,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",200.0,True,0.793,0.308,0,-10.414,0,0.0466,0.613,1.68e-05,0.0953,0.46,135.143,66,Gunna,,Banking On Me,1619
+252,,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",221.693,False,0.487,0.796,7,-3.9,0,0.0339,0.0197,0.000192,0.327,0.44,76.037,48,Blake Shelton,,Come Back as a Country Boy,1620
+253,,"['brooklyn drill', 'new york drill', 'rap', 'trap']",256.0,True,0.474,0.801,8,-5.978,0,0.375,0.102,0.0,0.322,0.497,147.356,58,Fivio Foreign,,City of Gods,1621
+254,,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",170.911,True,0.739,0.658,1,-4.145,1,0.195,0.132,0.000129,0.266,0.636,80.955,49,Pusha T,,Brambleton,1622
+255,,['contemporary country'],167.48,False,0.586,0.559,4,-6.725,1,0.05,0.639,0.0,0.0872,0.437,177.945,80,Jordan Davis,,Buy Dirt,1623
+256,,"['contemporary country', 'country', 'country road']",258.799,False,0.653,0.927,8,-4.699,1,0.0289,0.0352,4.47e-05,0.0966,0.894,119.97,56,Eric Church,,Heart On Fire,1624
+257,,['movie tunes'],160.946,False,0.905,0.631,9,-10.06,0,0.177,0.129,0.0,0.101,0.751,105.026,65,4*TOWN (From Disney and Pixar’s Turning Red),,Nobody Like U,1625
+258,,['emo rap'],134.844,True,0.563,0.724,2,-4.651,1,0.347,0.0831,0.0,0.237,0.486,93.006,48,6ix9ine,,GINÉ,1626
+259,,"['boy band', 'pop']",206.417,False,0.391,0.514,7,-6.926,1,0.0321,0.0523,9.73e-06,0.196,0.126,81.472,58,5 Seconds of Summer,,COMPLETE MESS,1627
+260,,['alternative r&b'],192.325,True,0.863,0.598,0,-7.312,1,0.211,0.107,0.0,0.0583,0.841,144.382,52,Ari Lennox,,Pressure,1628
+261,,['hollywood'],257.213,False,0.594,0.628,1,-6.345,1,0.359,0.12,0.0,0.0582,0.556,141.391,67,Stephanie Beatriz,,The Family Madrigal,1629
+262,,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",214.613,False,0.423,0.355,0,-10.565,1,0.0454,0.761,0.0,0.0915,0.465,93.788,64,Sebastian Yatra,,Dos Oruguitas,1630
+263,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",193.346,True,0.828,0.591,1,-6.217,1,0.109,0.0199,0.000323,0.361,0.202,119.251,74,Gunna,,P power (feat. Drake),1631
+264,,"['pluggnb', 'rage rap']",160.052,True,0.693,0.575,2,-7.633,1,0.0906,0.121,0.0,0.104,0.353,138.016,75,Yeat,,Monëy so big,1632
+265,,"['new jersey underground rap', 'trap queen']",178.413,True,0.916,0.824,8,-4.444,0,0.422,0.222,0.00108,0.0661,0.87,139.926,51,Coi Leray,,Blick Blick (with Nicki Minaj),1633
+266,,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",192.477,True,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,68,Daddy Yankee,,X ÚLTIMA VEZ,1634
+267,,['modern blues rock'],245.625,False,0.612,0.884,5,-4.4,1,0.0459,0.00516,0.0,0.0997,0.626,119.991,66,Elle King,,Drunk (And I Don't Wanna Go Home),1635
+268,,"['rap latina', 'trap queen']",250.722,True,0.644,0.671,11,-5.156,0,0.315,0.0225,0.0,0.0855,0.563,132.001,53,BIA,,LONDON (feat. J. Cole),1636
+269,,"['dance pop', 'pop']",201.495,False,0.629,0.64,7,-7.638,0,0.0752,0.342,1.17e-05,0.0928,0.448,179.989,54,Camila Cabello,,psychofreak (feat. WILLOW),1637
+270,,"['detroit trap', 'southern hip hop', 'trap']",226.362,True,0.718,0.607,5,-7.307,0,0.185,0.00227,1.32e-06,0.299,0.499,144.93,55,42 Dugg,,Thump Shit,1638
+271,,['contemporary r&b'],149.865,False,0.708,0.793,7,-2.518,0,0.0417,0.0442,2.62e-06,0.0362,0.503,94.005,54,Chlöe,,Treat Me,1639
+272,,"['classic texas country', 'contemporary country', 'modern country pop', 'texas country']",199.68,False,0.475,0.805,10,-4.456,1,0.0377,0.000453,0.0,0.143,0.488,145.976,59,Parker McCollum,,To Be Loved By You,1640
+273,,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",165.314,True,0.77,0.699,0,-6.59,1,0.199,0.0596,1.65e-05,0.17,0.696,81.003,62,Kevin Gates,,Thinking with My Dick (feat. Juicy J),1641
+274,,['black americana'],160.289,False,0.826,0.603,1,-7.659,0,0.0737,0.0474,0.0,0.0831,0.681,107.494,48,BRELAND,,Praise the Lord (feat. Thomas Rhett),1642
+275,,"['afro r&b', 'afrobeats']",145.8,True,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,76,CKay,,love nwantiti (ah ah ah),1643
+276,,"['hip hop', 'pop rap', 'rap']",309.322,True,0.671,0.857,7,-5.435,1,0.292,0.266,0.0,0.668,0.597,118.574,60,Dreamville,,Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes),1644
+277,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",159.926,True,0.824,0.577,2,-9.443,1,0.357,0.0109,0.0,0.107,0.442,154.081,58,Lil Durk,,Petty Too (feat. Future),1646
+278,,"['baton rouge rap', 'rap']",261.818,True,0.584,0.756,10,-6.245,0,0.362,0.0266,0.0,0.36,0.728,165.269,54,YoungBoy Never Broke Again,,I Hate YoungBoy,1647
+279,,['movie tunes'],179.426,False,0.718,0.709,4,-5.568,1,0.039,0.258,0.0,0.101,0.54,119.974,67,Diane Guerrero,,What Else Can I Do?,1648
+280,,"['cologne indie', 'german singer-songwriter']",269.333,False,0.68,0.428,6,-8.107,0,0.135,0.376,0.000344,0.355,0.334,98.222,73,AnnenMayKantereit,,Tom's Diner,1649
+281,,['florida rap'],194.05,True,0.649,0.508,8,-10.232,1,0.0959,0.0345,3.59e-05,0.0736,0.405,157.975,64,Rod Wave,,By Your Side,1650
+282,,"['baton rouge rap', 'rap']",137.142,True,0.608,0.814,6,-6.466,0,0.447,0.0316,0.0,0.0959,0.654,167.962,42,YoungBoy Never Broke Again,,4KT Baby,1651
+283,,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",234.869,True,0.858,0.7,7,-4.677,1,0.258,0.0277,0.0,0.109,0.825,140.08,43,Gucci Mane,,"Blood All on it (feat. Key Glock, Young Dolph)",1652
+284,,"['hip pop', 'pop', 'queens hip hop', 'rap']",255.188,True,0.707,0.909,2,-3.501,1,0.261,0.413,0.0,0.305,0.703,145.014,49,Nicki Minaj,,We Go Up (feat. Fivio Foreign),1653
+285,,"['ohio hip hop', 'pop rap']",170.133,True,0.601,0.92,5,-4.802,0,0.0505,0.000735,0.0,0.0998,0.537,88.014,71,mgk,,maybe (feat. Bring Me The Horizon),1654
+286,,['pop'],175.533,True,0.663,0.374,5,-6.987,1,0.0367,0.54,0.0,0.101,0.351,106.967,66,Tate McRae,,chaotic,1655
+287,,"['ohio hip hop', 'pop rap']",159.096,True,0.412,0.881,2,-3.502,1,0.087,0.00039,5.82e-05,0.923,0.359,165.012,63,mgk,,emo girl (feat. WILLOW),1656
+288,,['pop'],175.163,True,0.601,0.787,0,-6.178,1,0.031,0.0492,0.0,0.142,0.525,134.981,62,The Chainsmokers,,High,1657
+289,,"['ohio hip hop', 'pop rap']",124.188,True,0.742,0.617,2,-6.689,1,0.0345,0.05,5.92e-05,0.0711,0.491,147.002,63,mgk,,ay! (feat. Lil Wayne),1658
+290,,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",159.386,True,0.889,0.641,7,-4.494,1,0.0668,0.0515,2.75e-05,0.19,0.588,87.99,58,J Balvin,,Sigue,1659
+291,,"['contemporary country', 'country']",231.832,False,0.57,0.618,10,-4.966,1,0.0445,0.153,0.0,0.159,0.286,138.034,62,Kelsea Ballerini,,half of my hometown (feat. Kenny Chesney),1660
+292,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",179.806,True,0.701,0.61,6,-6.639,0,0.306,0.0113,0.0,0.109,0.598,157.995,54,Lil Durk,,No Interviews,1661
+293,,"['cali rap', 'trap queen']",168.873,True,0.833,0.691,6,-5.771,1,0.133,0.139,2.99e-05,0.131,0.866,110.985,50,Saweetie,,Closer (feat. H.E.R.),1662
+294,,"['alabama rap', 'trap']",212.878,True,0.481,0.362,3,-10.766,0,0.209,0.237,0.0,0.114,0.639,83.605,58,Yung Bleu,,Beautiful Lies,1663
+295,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",242.965,True,0.849,0.424,5,-9.579,0,0.324,0.0635,0.0,0.0834,0.153,145.887,76,Drake,,Knife Talk (with 21 Savage ft. Project Pat),1664
+296,,"['chicago rap', 'melodic rap', 'rap']",259.672,True,0.674,0.58,8,-4.866,1,0.0311,0.0609,0.0,0.159,0.0759,121.987,66,Juice WRLD,,Sometimes,1665
+297,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",139.533,True,0.672,0.564,1,-10.418,1,0.183,0.000408,0.0,0.0893,0.195,173.007,52,Lil Durk,,Computer Murderers,1666
+298,,"['dance pop', 'pop']",197.442,False,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,72,Bruno Mars,,Smokin Out The Window,1667
+299,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",149.244,True,0.645,0.678,8,-8.343,1,0.409,0.0389,0.0,0.11,0.158,98.016,48,Lil Durk,,Barbarian,1668
+300,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",114.58,True,0.841,0.532,2,-9.307,1,0.278,0.00864,2.48e-06,0.268,0.319,79.993,47,Lil Durk,,Golden Child,1669
+301,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",147.391,True,0.842,0.512,11,-8.202,1,0.333,0.0169,0.0,0.202,0.688,162.023,50,Lil Durk,,Smoking & Thinking,1670
+302,,"['indie poptimism', 'pop']",187.943,False,0.375,0.133,0,-10.624,0,0.0352,0.651,0.0,0.0695,0.192,131.721,60,Labrinth,,I’m Tired (with Zendaya) - Bonus Track,1671
+303,,['hollywood'],161.84,False,0.48,0.554,1,-8.145,0,0.069,0.171,0.0,0.131,0.267,190.066,65,Stephanie Beatriz,,Waiting On A Miracle,1673
+304,,"['grunge', 'permanent wave', 'rock']",232.146,False,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,68,Nirvana,,Something In The Way,1674
+305,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",153.813,True,0.754,0.553,10,-8.777,0,0.394,0.06,0.0,0.108,0.195,90.6,44,Lil Durk,,Shootout @ My Crib,1675
+306,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",121.06,True,0.624,0.561,7,-8.757,1,0.476,0.0895,0.0,0.109,0.357,159.186,44,Lil Durk,,Started From,1676
+307,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",173.88,True,0.562,0.609,5,-7.672,1,0.279,0.0461,0.0,0.131,0.38,158.803,49,Lil Durk,,Headtaps,1677
+308,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",196.341,True,0.512,0.633,1,-7.951,0,0.289,0.0276,2.02e-06,0.578,0.236,113.621,40,Lil Durk,,Grow Up/Keep It On Speaker,1678
+309,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",126.653,True,0.621,0.572,5,-8.102,0,0.218,0.0615,0.0,0.089,0.208,83.694,46,Lil Durk,,Blocklist,1679
+310,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",193.396,True,0.488,0.482,10,-9.127,0,0.382,0.125,0.0,0.0999,0.318,158.669,46,Lil Durk,,Difference Is (feat. Summer Walker),1680
+311,,"['canadian contemporary r&b', 'canadian pop', 'pop']",188.918,True,0.735,0.795,11,-6.523,0,0.113,0.0296,3.18e-05,0.0678,0.905,122.0,70,The Weeknd,,Sacrifice,1681
+312,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",151.34,True,0.577,0.681,11,-6.219,1,0.201,0.0138,0.0,0.178,0.539,83.597,43,Lil Durk,,Federal Nightmares,1682
+313,,['viral rap'],96.825,True,0.803,0.64,1,-4.721,1,0.151,0.583,0.000331,0.437,0.816,140.073,58,lil Shordie Scott,,Rocking A Cardigan in Atlanta,1683
+314,,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",123.076,True,0.723,0.516,11,-10.707,0,0.485,0.00311,1.26e-06,0.115,0.223,155.967,48,Lil Durk,,Pissed Me Off,1684
+315,,"['afrobeats', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']",248.04,False,0.849,0.707,0,-6.002,1,0.113,0.0266,8.58e-06,0.618,0.602,104.027,72,Wizkid,,Essence (feat. Tems),1685
+316,,"['contemporary country', 'outlaw country']",213.493,False,0.602,0.477,9,-8.425,1,0.032,0.268,3.1e-05,0.173,0.552,183.89,82,Chris Stapleton,,You Should Probably Leave,1686
+317,,"['black americana', 'contemporary country', 'country', 'country road']",213.718,False,0.471,0.846,0,-5.269,1,0.0389,0.00279,2.86e-06,0.145,0.539,100.089,58,Kane Brown,,One Mississippi,1687
+318,,['modern alternative pop'],162.68,True,0.773,0.47,2,-7.93,1,0.0299,0.0153,0.000193,0.0851,0.399,94.995,73,THE ANXIETY,,Meet Me At Our Spot,1688
+319,,"['chicago rap', 'rap']",133.613,True,0.947,0.605,10,-8.621,0,0.346,0.0748,7.54e-06,0.0901,0.656,129.988,64,King Von,,Don't Play That,1689
+320,,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",196.657,True,0.782,0.557,1,-7.419,0,0.231,0.149,0.0,0.309,0.393,130.16,48,Gucci Mane,,Publicity Stunt,1690
+321,,"['chicago rap', 'rap']",160.133,True,0.915,0.538,11,-5.954,0,0.307,0.00234,0.0,0.124,0.099,131.919,56,King Von,,War,1691
+322,,"['british soul', 'pop', 'pop soul', 'uk pop']",225.148,False,0.534,0.725,1,-3.906,1,0.046,0.091,0.0,0.0264,0.55,88.098,75,Adele,,Oh My God,1692
+323,,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",235.582,True,0.821,0.714,2,-5.977,1,0.374,0.109,0.0,0.298,0.665,81.393,56,DaBaby,,Neighborhood Superstar,1693
+324,,"['chicago rap', 'rap']",156.133,True,0.845,0.565,11,-7.7,1,0.372,0.0112,0.0,0.255,0.625,79.972,48,King Von,,Facetime (feat. G Herbo),1694
+325,,"['chicago rap', 'rap']",178.413,True,0.829,0.727,1,-6.169,1,0.253,0.0608,4.47e-06,0.0975,0.877,139.95,48,King Von,,Straight To It (feat. Fivio Foreign),1695
+326,,"['chicago rap', 'melodic rap', 'rap']",227.527,True,0.587,0.614,2,-6.344,1,0.0435,0.0306,0.0,0.399,0.451,160.075,70,Juice WRLD,,Cigarettes,1696
+327,,"['pop dance', 'tech house']",157.89,False,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,78,ACRAZE,,Do It To It,1697
+328,,"['chicago rap', 'rap']",115.32,True,0.877,0.599,1,-7.901,1,0.298,0.0447,0.0,0.11,0.305,149.989,58,King Von,,Evil Twins,1698
+329,,"['chicago rap', 'rap']",185.213,True,0.941,0.514,1,-6.778,1,0.329,0.153,1.82e-06,0.104,0.573,126.046,53,King Von,,Trust Nothing (feat. Moneybagg Yo),1699
+330,,"['r&b', 'rap']",173.549,True,0.415,0.83,6,-5.621,0,0.18,0.0144,0.0,0.14,0.485,194.746,45,Chris Brown,,Iffy,1700
+331,,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",161.266,False,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,0.615,125.034,68,Alesso,,When I’m Gone (with Katy Perry),1701
+332,,['scandipop'],160.656,False,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,0.699,110.054,71,NEIKED,,Better Days (NEIKED x Mae Muller x Polo G),1702
+333,,"['pop', 'singer-songwriter pop', 'uk pop']",185.422,False,0.528,0.309,0,-7.398,1,0.0329,0.924,2.1e-06,0.282,0.307,133.83,64,Ed Sheeran,,The Joker And The Queen (feat. Taylor Swift),1704
+334,,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",186.677,True,0.782,0.669,1,-4.58,1,0.213,0.0733,0.0,0.111,0.598,143.992,46,Kodak Black,,Usain Boo,1705
+335,,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",187.36,True,0.894,0.483,1,-7.154,1,0.259,0.0146,0.0,0.0972,0.498,88.508,55,Future,,WORST DAY,1706
+336,,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",165.772,True,0.736,0.532,1,-7.151,1,0.265,0.0292,8.86e-06,0.0806,0.273,84.983,58,Moneybagg Yo,,Scorpio,1707
+337,,['hollywood'],278.44,False,0.515,0.467,11,-10.623,1,0.0494,0.633,0.0,0.107,0.346,114.532,59,Stephanie Beatriz,,All Of You,1708
+338,,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",165.76,True,0.818,0.763,11,-3.089,0,0.292,0.621,0.0,0.107,0.685,127.968,52,Kodak Black,,I Wish,1709
+339,,"['contemporary country', 'country', 'country road', 'modern country rock']",205.946,False,0.58,0.813,11,-5.621,1,0.0414,0.0386,1.44e-06,0.0926,0.473,120.973,50,Russell Dickerson,,Home Sweet,1710
+340,,"['dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",174.728,False,0.519,0.582,1,-6.778,1,0.112,0.213,0.0,0.0681,0.319,131.524,43,Mary J. Blige,,Good Morning Gorgeous,1712
+341,,"['florida drill', 'florida rap', 'southern hip hop']",279.573,True,0.748,0.713,6,-6.399,1,0.355,0.00496,0.0,0.245,0.482,75.591,65,Nardo Wick,,"Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",1713
+342,,"['black americana', 'contemporary country', 'country road', 'modern country rock']",212.72,False,0.563,0.847,1,-4.493,1,0.0468,0.0891,0.0,0.121,0.666,96.06,55,Jimmie Allen,,Freedom Was A Highway,1714
+343,,"['pluggnb', 'rage rap']",167.186,True,0.705,0.613,7,-7.441,1,0.123,0.262,6.97e-06,0.198,0.259,74.521,66,Yeat,,Poppin,1715
+344,,"['modern country pop', 'singer-songwriter pop']",146.266,True,0.588,0.39,8,-7.753,1,0.0578,0.726,1.26e-05,0.0965,0.206,96.571,68,Jessie Murph,,Pray,1716
+345,,['florida rap'],192.021,True,0.646,0.533,11,-10.461,1,0.118,0.0589,1.75e-06,0.269,0.249,169.913,54,Rod Wave,,Cold December,1717
+346,,['pop'],613.026,True,0.631,0.518,0,-8.771,1,0.0303,0.274,0.0,0.088,0.205,93.023,80,Taylor Swift,,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),1718
+347,,"['pop rap', 'westcoast flow']",161.684,True,0.571,0.767,2,-5.16,1,0.287,0.336,0.0,0.0809,0.605,93.421,69,Blxst,,Chosen (feat. Ty Dolla $ign),1721
+348,,['r&b'],192.257,False,0.606,0.513,9,-8.756,1,0.0524,0.102,0.0,0.156,0.177,79.9,64,Giveon,,For Tonight,1722
+349,,"['contemporary country', 'country road', 'modern country rock']",206.506,False,0.653,0.623,8,-4.56,1,0.0244,0.508,3.32e-06,0.285,0.718,100.021,59,Michael Ray,,Whiskey And Rain,1723
+350,,['k-pop'],210.928,False,0.512,0.76,2,-5.889,0,0.0682,0.299,0.0,0.103,0.495,130.096,69,Jung Kook,,Stay Alive (Prod. SUGA of BTS),1724
+351,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",138.453,True,0.798,0.572,1,-6.627,1,0.17,0.027,0.0,0.099,0.293,155.933,58,Gunna,,too easy,1725
+352,,"['dance pop', 'pop']",208.666,True,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97,82,Doja Cat,,Kiss Me More (feat. SZA),1726
+353,,"['contemporary country', 'country', 'country road', 'modern country rock']",171.626,False,0.364,0.745,8,-3.293,1,0.0596,0.146,0.0,0.0887,0.785,203.912,72,Dustin Lynch,,Thinking 'Bout You (feat. MacKenzie Porter),1727
+354,,['pop'],225.96,False,0.622,0.791,7,-6.106,1,0.0535,0.00188,3.72e-06,0.083,0.494,115.915,70,Taylor Swift,,Message In A Bottle (Taylor's Version) (From The Vault),1728
+355,,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",204.285,True,0.898,0.58,8,-7.632,0,0.26,0.0101,0.0,0.169,0.661,84.018,56,YG,,Scared Money (feat. J. Cole and Moneybagg Yo),1729
+356,,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",232.412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,62,Red Hot Chili Peppers,,Black Summer,1730
+357,,"['cloud rap', 'florida rap', 'underground hip hop']",171.453,True,0.753,0.777,11,-5.701,0,0.32,0.0725,0.000714,0.125,0.669,157.148,54,$NOT,,Doja,1731
+358,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",291.175,True,0.666,0.465,1,-8.545,1,0.26,0.0503,0.0,0.215,0.292,167.937,79,Drake,,Fair Trade (with Travis Scott),1732
+359,,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",113.429,True,0.953,0.621,11,-7.565,1,0.154,0.00799,4.87e-06,0.307,0.378,132.063,66,Megan Thee Stallion,,Megan's Piano,1733
+360,,"['edm', 'pop dance', 'progressive electro house']",234.0,False,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,80,Swedish House Mafia,,Moth To A Flame (with The Weeknd),1734
+361,,"['contemporary country', 'country', 'country road', 'modern country rock']",212.893,False,0.452,0.683,1,-4.829,1,0.0337,0.168,0.0,0.102,0.445,183.937,66,Jason Aldean,,If I Didn’t Love You,1735
+362,,"['alternative hip hop', 'boom bap', 'buffalo hip hop', 'hip hop', 'upstate ny rap']",225.0,True,0.535,0.819,8,-6.792,1,0.455,0.584,0.0,0.16,0.581,150.451,58,Benny The Butcher,,Johnny P's Caddy,1736
+363,,"['baton rouge rap', 'rap']",180.705,True,0.682,0.798,2,-6.831,1,0.401,0.101,0.0,0.112,0.694,169.959,63,YoungBoy Never Broke Again,,No Switch,1737
+364,,"['canadian contemporary r&b', 'canadian pop', 'pop']",339.023,False,0.698,0.769,8,-7.154,1,0.0368,0.0128,0.00166,0.238,0.354,121.02,69,The Weeknd,,Take My Breath,1738
+365,,"['memphis hip hop', 'rap']",192.147,True,0.859,0.596,11,-7.021,1,0.329,0.0194,0.0,0.0489,0.479,140.064,57,NLE Choppa,,Shotta Flow 6,1739
+366,,"['emo rap', 'miami hip hop', 'rap']",220.708,True,0.853,0.467,9,-6.843,0,0.195,0.00596,0.00171,0.203,0.329,87.023,68,XXXTENTACION,,vice city,1740
+367,,['indie poptimism'],237.72,False,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,78,Jaymes Young,,Infinity,1741
+368,,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",234.288,True,0.716,0.551,1,-6.987,1,0.47,0.167,0.0,0.197,0.305,82.393,55,The Game,,Eazy,1742
+369,,"['baton rouge rap', 'rap']",170.958,True,0.869,0.616,1,-5.76,0,0.285,0.0254,0.0,0.105,0.342,145.824,53,YoungBoy Never Broke Again,,Fish Scale,1743
+370,,"['colombian pop', 'latin pop', 'vallenato']",175.28,False,0.718,0.88,0,-7.567,1,0.11,0.0223,0.0,0.908,0.814,124.007,59,Carlos Vives,,"Colombia, Mi Encanto",1744
+371,,"['art pop', 'pop']",298.899,True,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,82,Billie Eilish,,Happier Than Ever,1745
+372,,"['baton rouge rap', 'rap']",244.693,True,0.636,0.659,1,-8.034,1,0.113,0.0333,0.0,0.174,0.487,153.06,49,YoungBoy Never Broke Again,,Bring It On,1746
+373,,"['baton rouge rap', 'rap']",265.185,True,0.693,0.656,10,-7.684,0,0.392,0.0865,0.0,0.73,0.802,162.072,52,YoungBoy Never Broke Again,,Bring The Hook,1747
+374,,"['pop rap', 'trap']",168.0,True,0.713,0.57,2,-8.126,1,0.113,0.0425,0.0,0.131,0.155,159.99,51,Internet Money,,Flossin',1748
+375,,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",184.04,True,0.904,0.733,11,-7.036,0,0.301,0.0951,0.0,0.136,0.519,145.012,47,Key Glock,,Proud,1749
+376,,"['baton rouge rap', 'rap']",232.336,True,0.583,0.687,5,-8.288,0,0.378,0.11,0.0,0.337,0.502,158.129,49,YoungBoy Never Broke Again,,Know Like I Know,1750
+377,,['contemporary r&b'],148.778,True,0.903,0.535,9,-6.434,1,0.0742,0.297,0.0,0.345,0.508,130.022,64,Chlöe,,Have Mercy,1751
+378,,"['baton rouge rap', 'rap']",166.843,True,0.761,0.493,9,-8.349,1,0.532,0.283,0.0,0.216,0.655,162.185,44,YoungBoy Never Broke Again,,2Hoo,1752
+379,,"['baton rouge rap', 'rap']",159.069,True,0.548,0.667,11,-7.2,0,0.393,0.327,0.0,0.0803,0.377,83.829,44,YoungBoy Never Broke Again,,Long Live,1753
+380,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",167.84,True,0.679,0.73,1,-7.483,1,0.0689,0.00421,0.0,0.0736,0.292,148.038,61,Gunna,,thought i was playing,1754
+381,,"['baton rouge rap', 'rap']",175.521,True,0.78,0.589,5,-7.9,0,0.316,0.0446,0.0,0.222,0.635,81.989,52,YoungBoy Never Broke Again,,Dis & That,1755
+382,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",120.0,True,0.903,0.537,5,-6.854,0,0.283,0.16,0.0,0.129,0.737,115.013,60,Gunna,,25k jacket (feat. Lil Baby),1756
+383,,"['alabama rap', 'trap']",202.247,True,0.712,0.703,4,-6.174,0,0.199,0.0287,0.0,0.13,0.452,89.024,55,Yung Bleu,,Baddest,1757
+384,,"['baton rouge rap', 'rap']",204.912,True,0.504,0.713,5,-7.524,0,0.383,0.224,0.0,0.572,0.534,85.352,44,YoungBoy Never Broke Again,,Smoke One,1758
+385,,['alt z'],232.813,True,0.646,0.471,10,-9.247,1,0.157,0.122,0.0,0.125,0.455,170.084,66,Emmy Meli,,I AM WOMAN,1759
+386,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",257.604,True,0.803,0.597,11,-6.035,0,0.141,0.000619,4.5e-06,0.323,0.331,136.008,71,Drake,,Way 2 Sexy (with Future & Young Thug),1760
+387,,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",221.979,True,0.767,0.438,7,-8.726,0,0.29,0.181,0.0,0.142,0.381,86.975,72,Drake,,Girls Want Girls (with Lil Baby),1761
+388,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",160.266,True,0.821,0.572,5,-6.192,0,0.166,0.00495,0.0,0.107,0.35,155.699,56,Gunna,,how you did that (feat. Kodak Black),1762
+389,,"['atl hip hop', 'melodic rap', 'rap', 'trap']",141.346,True,0.834,0.696,10,-6.614,0,0.175,0.00264,0.000179,0.328,0.545,162.971,56,Gunna,,poochie gown,1763
