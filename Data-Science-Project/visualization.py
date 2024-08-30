@@ -70,4 +70,21 @@ def spotify_feature_subplot(ax, data, col_name, clr = 'gold'):
     
     x_labels = avg_values.keys()
     ax.set_xticks(list(x_labels))
-    ax.set_xticklabels(x_labels, rotation=45, ha='right') 
+    ax.set_xticklabels(x_labels, rotation=45, ha='right')
+    if (data[col_name].sum() < 0):
+        ax.invert_yaxis()
+        
+        
+def boxplot_chart_performance(data, genre, start_year = 1958, end_year = 2024, interval = 1, relative_genre_name = False):
+    if relative_genre_name:
+        filtered_years = data[(data.spotify_genre.str.contains(genre)) & (data.year >= start_year) & (data.year <= end_year)].copy()
+    else:
+        filtered_years = data[(data.spotify_genre == genre) & (data.year >= start_year) & (data.year <= end_year)].copy()
+
+    filtered_years['year_group'] = pd.cut(filtered_years['year'], bins = range(start_year, end_year + 1, interval), right = False)
+    
+    filtered_years.boxplot(column = "peak_position", by = "year_group", figsize = (8, 5))
+    plt.ylabel('peak positions')
+    plt.title("")
+    plt.suptitle(f"Chart performance of {genre} songs over the years")
+    plt.gca().invert_yaxis() #Invert the values, so that 1 is the highest position
