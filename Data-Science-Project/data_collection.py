@@ -125,3 +125,7 @@ def get_artists(artist_str, main_only = True):
         return artist_str.split(',')[0].strip()
     else:
         return artist_str.split(',')
+    
+    
+def remove_stopwords(word_list, stop_words):
+    return [word for word in word_list if word.lower() not in stop_words]

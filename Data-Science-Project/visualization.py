@@ -88,3 +88,5 @@ def boxplot_chart_performance(data, genre, start_year = 1958, end_year = 2024, i
     plt.title("")
     plt.suptitle(f"Chart performance of {genre} songs over the years")
     plt.gca().invert_yaxis() #Invert the values, so that 1 is the highest position
+    
+    
