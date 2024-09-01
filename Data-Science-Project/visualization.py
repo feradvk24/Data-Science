@@ -49,8 +49,16 @@ def plot_genre_performance(data, genre, column = 'spotify_genre'):
     performance_over_years = data[data[column] == genre].year.value_counts().to_dict()
     performance_over_years = dict(sorted(performance_over_years.items()))
     
-    plt.plot(performance_over_years.keys(), performance_over_years.values(), color = 'lightgreen', linewidth = 3)
-    plt.scatter(performance_over_years.keys(), performance_over_years.values(), s = 15, color = 'indigo', zorder=5)
+    plt.plot(
+            performance_over_years.keys(), 
+            performance_over_years.values(), 
+            color = 'yellowgreen', 
+            linewidth = 3, 
+            marker = 'o', 
+            markerfacecolor = 'gold',
+            markeredgecolor = 'black',
+            markersize = 4
+            )
     plt.grid()
     plt.xlabel("Year")
     plt.ylabel("Number of songs")
