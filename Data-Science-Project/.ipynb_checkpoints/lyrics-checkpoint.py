@@ -46,7 +46,11 @@ def word_avg_position(data, n = 100, lowest_positions = True):
     
     plt.figure(figsize = (10, 6))
     sns.barplot(x='word', y='position', data=avg_pos, palette='viridis')
-
-    plt.title("Top 10 words with the lowest average chart position")
+    if lowest_positions:
+        title = "Top 10 words with the lowest average chart position"
+    else:
+        title = "Top 10 words with the highest average chart position"
+    
+    plt.title(title)
     plt.gca().invert_yaxis()
     plt.gca().bar_label(plt.gca().containers[0])

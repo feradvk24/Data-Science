@@ -3,63 +3,6 @@ import re
 from bs4 import BeautifulSoup
 from requests.models import Response
 
-class AZLyrics:
-    def __init__(self, artist, song):
-        self.artist = artist.replace(" ", "").lower()
-        self.song = song.replace(" ", "").lower()
-        self.lyrics = None
-        
-    def parse_text(self, text):
-        accent_map = str.maketrans(
-        'àáâãäåèéêëéìíîïòóôõöùúûüýÿ',
-        'aaaaaaeeeeeiiiiooooouuuuyy'
-        )
-        text = text.translate(accent_map)
-        if text.startswith('The '):
-            text = text[4:]  # Remove the first 4 characters (i.e., "The "), as the AZLyrics url does not contain it
-        cleaned = re.sub(r'[^a-zA-Z0-9]', '', text.strip())
-
-        cleaned = cleaned.lower()
-        return cleaned
-
-    def url(self):
-        return "https://www.azlyrics.com/lyrics/{}/{}.html".format(self.parse_text(self.artist), self.parse_text(self.song))
-    
-
-    def scrape(self):
-        URL = self.url()
-        response = requests.get(URL)
-        lyrics = None
-
-        if response.ok:
-            lyrics = self.scrape_lyrics(response)
-
-        return lyrics
-    
-    def scrape_lyrics(self, r):
-        dom = BeautifulSoup(r.text, "html.parser")
-        body = dom.body
-        divs = body.find_all(
-                "div", {"class": "col-xs-12 col-lg-8 text-center"}
-        )[0]
-
-        target = {0: 0}
-
-        for i, d in enumerate(divs):
-            try:
-                query = d.find_all("br")
-                n_br = len(query)
-                if n_br > list(target.values())[0]:
-                    target = {i: n_br}
-            except:
-                pass
-
-        target = list(target.keys())[0]
-        lyrics = list(divs.children)[target].text
-
-        return lyrics
-    
-
     
 def get_track_details_by_name(empty_value_index, track_name, main_artist_name, sp):
     # Build the search query string
